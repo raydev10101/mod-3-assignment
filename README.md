@@ -1,0 +1,1 @@
+This is the solution to the module 3 assignment of John Hopkins University, It focuses on responsive design with respect to some bootstrap configurations that make for a standard webpage design# mod-3-assignment
